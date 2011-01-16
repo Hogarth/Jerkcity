@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Jerkcity' target in the 'Jerkcity' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
